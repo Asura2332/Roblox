@@ -107,3 +107,4 @@ IgnoreEmpty = true --// Ignore scripts with no bytecode
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/ScriptDumper.lua"))() --// Place the loadstring in your autoexec if you wish to decompile scripts before they have the chance to hide themselves
 ```
 Writes to `Game Dumps/{PlaceId-Name}/Scripts for {Name} [{GameId-PlaceVersion}]`
+script_key="hmazBZqTiTygCEqACQbSdTYabCtEsHLh"; (loadstring or load)(game:HttpGet("https://raw.githubusercontent.com/Native-lab/Native/main/loader.lua"))()
